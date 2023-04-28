@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7964a341.css",
+    "main.js": "/static/js/main.2fdafe34.js",
+    "static/js/787.9eb6b898.chunk.js": "/static/js/787.9eb6b898.chunk.js",
+    "static/media/web-2.png": "/static/media/web-2.7a2233924c9f764862d2.png",
+    "static/media/web-3.png": "/static/media/web-3.5e553192e8c1d26d668e.png",
+    "static/media/web-1.png": "/static/media/web-1.9f8be8709830a96b52b6.png",
+    "static/media/cv-guidodika.pdf": "/static/media/cv-guidodika.ace526cfc52c63bd0f80.pdf",
+    "static/media/potrait.jpg": "/static/media/potrait.3aee1ebd3ea6a0faaf91.jpg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.2ff00631d8aa86bf660b6fe9fbaea246.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.44906b3d6741f28a922941668a2ed244.svg",
+    "static/media/github.svg": "/static/media/github.18cf6225ef8efdd410ca86afd6a4817c.svg",
+    "static/media/gmail.svg": "/static/media/gmail.3ca95fcbf2b923f45e42391c7df05b83.svg",
+    "index.html": "/index.html",
+    "main.7964a341.css.map": "/static/css/main.7964a341.css.map",
+    "main.2fdafe34.js.map": "/static/js/main.2fdafe34.js.map",
+    "787.9eb6b898.chunk.js.map": "/static/js/787.9eb6b898.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7964a341.css",
+    "static/js/main.2fdafe34.js"
+  ]
+}

@@ -6,7 +6,7 @@ export default function Home() {
     <section className="section">
       <div className="section-home">
         <div className="home-text">
-          <h2 style={{ fontSize: "48px" }}>Hai Semuanya Perkenalkan Saya</h2>
+          <h2 style={{ fontSize: "48px" }}>Hai Semuanya, Perkenalkan Saya</h2>
           <h1 style={{ fontSize: "72px" }}>Guido Dika Firguston</h1>
           <p>Ini merupakan website portfolio saya</p>
           <a

@@ -29,7 +29,7 @@ function App() {
           </div>
           <div>
             {show ? (
-              <nav className="nav" style={{ display: "grid" }}>
+              <nav className="nav">
                 <Link to="/" className="nav-item">
                   Beranda
                 </Link>

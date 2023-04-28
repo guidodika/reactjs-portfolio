@@ -189,6 +189,30 @@ a {
   text-align: center;
 }
 
+.section-skill {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 30px;
+}
+
+.image-skill {
+  width: 100px;
+  display: block;
+}
+
+.text-skill {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.level-skill {
+  text-align: center;
+}
+
+.skill-item {
+  display: grid;
+}
+
 @media only screen and (min-width: 601px) {
   .navbar-toggle {
     display: none;

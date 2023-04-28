@@ -5,6 +5,7 @@ import About from "./pages/About";
 import Work from "./pages/Work";
 import Contact from "./pages/Contact";
 import PageNotFound from "./pages/PageNotFound";
+import Skill from "./pages/Skill";
 import { useState } from "react";
 import { useEffect } from "react";
 
@@ -37,6 +38,9 @@ function App() {
                 <Link to="/about" className="nav-item">
                   Tentang
                 </Link>
+                <Link to="/skill" className="nav-item">
+                  Skill
+                </Link>
                 <Link to="/work" className="nav-item">
                   Portfolio
                 </Link>
@@ -55,6 +59,9 @@ function App() {
           <Link to="/about" className="nav-item">
             Tentang
           </Link>
+          <Link to="/skill" className="nav-item">
+            Skill
+          </Link>
           <Link to="/work" className="nav-item">
             Portfolio
           </Link>
@@ -68,6 +75,7 @@ function App() {
         <Route path="about" element={<About />}></Route>
         <Route path="work" element={<Work />}></Route>
         <Route path="contact" element={<Contact />}></Route>
+        <Route path="skill" element={<Skill />}></Route>
         <Route path="*" element={<PageNotFound />}></Route>
       </Routes>
     </div>

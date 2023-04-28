@@ -16,6 +16,9 @@ function App() {
 
   return (
     <div className="app">
+      <div className="warning-message">
+        Website ini masih belum optimal dengan tampilan mobile
+      </div>
       <div className="container-nav">
         <p className="brand">Guido Dika</p>
         <div>

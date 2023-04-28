@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Work from "./pages/Work";
 import Contact from "./pages/Contact";
+import PageNotFound from "./pages/PageNotFound";
 import { useState } from "react";
 import { useEffect } from "react";
 
@@ -67,6 +68,7 @@ function App() {
         <Route path="about" element={<About />}></Route>
         <Route path="work" element={<Work />}></Route>
         <Route path="contact" element={<Contact />}></Route>
+        <Route path="*" element={<PageNotFound />}></Route>
       </Routes>
     </div>
   );

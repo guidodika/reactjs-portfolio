@@ -185,9 +185,13 @@ a {
   }
 }
 
-@media (max-width: 600px) {
+@media only screen and (max-width: 600px) {
   .app {
     margin: 0 25px;
+  }
+
+  .section {
+    width: 100%;
   }
 
   .section-contact {

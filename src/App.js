@@ -37,7 +37,7 @@ function App() {
                   Tentang
                 </Link>
                 <Link to="/work" className="nav-item">
-                  Pekerjaan
+                  Portfolio
                 </Link>
                 <Link to="/contact" className="nav-item">
                   Kontak
@@ -55,7 +55,7 @@ function App() {
             Tentang
           </Link>
           <Link to="/work" className="nav-item">
-            Pekerjaan
+            Portfolio
           </Link>
           <Link to="/contact" className="nav-item">
             Kontak
